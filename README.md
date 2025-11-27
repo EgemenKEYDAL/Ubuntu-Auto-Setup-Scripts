@@ -518,14 +518,6 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 - Tüm açık kaynak proje katkıda bulunanları
 - Bu scriptleri kullanan ve geri bildirimde bulunan herkese
 
-## 📞 İletişim
-
-Sorularınız veya önerileriniz için:
-
-- Issue açın: [GitHub Issues](https://github.com/yourusername/ubuntu-setup-scripts/issues)
-- Pull Request gönderin
-- E-posta: your.email@example.com
-
 ## 🔗 Faydalı Bağlantılar
 
 - [Ubuntu Dokümantasyonu](https://help.ubuntu.com/)
