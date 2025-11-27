@@ -518,14 +518,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All open-source project contributors
 - Everyone who uses these scripts and provides feedback
 
-## 📞 Contact
-
-For questions or suggestions:
-
-- Open an issue: [GitHub Issues](https://github.com/yourusername/ubuntu-setup-scripts/issues)
-- Submit a pull request
-- Email: your.email@example.com
-
 ## 🔗 Useful Links
 
 - [Ubuntu Documentation](https://help.ubuntu.com/)
