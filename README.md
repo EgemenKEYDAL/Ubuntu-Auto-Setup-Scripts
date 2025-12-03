@@ -1,4 +1,4 @@
-# Ubuntu Otomatik Kurulum Scriptleri
+# [Ubuntu Otomatik Kurulum Scriptleri](https://www.egemenkeydal.com/projects/ubuntu-auto-setup)
 
 Geliştirici: Egemen KEYDAL
 
